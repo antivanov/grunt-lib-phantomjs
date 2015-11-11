@@ -1,6 +1,6 @@
 {
   "name": "grunt-lib-phantomjs",
-  "description": "Grunt and PhantomJS, sitting in a tree",
+  "description": "Grunt and PhantomJS, sitting in a tree. Unofficial fork that works with PhantomJS 2.0.0",
   "version": "0.7.1",
   "author": {
     "name": "Grunt Team",
@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "eventemitter2": "^0.4.9",
-    "phantomjs": "^1.9.15",
+    "phantomjs2-ext": "^0.1.0",
     "semver": "^4.3.0",
     "temporary": "^0.0.8"
   },
