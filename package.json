@@ -1,7 +1,7 @@
 {
   "name": "grunt-lib-phantomjs2-unofficial",
   "description": "Grunt and PhantomJS, sitting in a tree. Unofficial fork that works with PhantomJS 2.0.0",
-  "version": "0.7.1",
+  "version": "0.7.1.1",
   "author": {
     "name": "Grunt Team",
     "url": "http://gruntjs.com/"
