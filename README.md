@@ -2,6 +2,8 @@
 
 > Grunt and PhantomJS, sitting in a tree.
 
+WARNING: This is an unoffical fork that works with PhantomJS version 2.0.0. It was created because the upgrade to the desired
+version of PhantomJS has not yet been done for the master branch of `grunt-lib-phantomjs`.
 
 ## Usage
 
